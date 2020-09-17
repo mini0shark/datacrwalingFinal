@@ -1,5 +1,6 @@
 # datacrwalingFinal
 
+2019 2학기 데이터 크롤링
 core_source
   ranking.py => melon_ranking.csv 파일을 생성하는 파일
   page_crol.py => melon_base_data.csv 파일을 생성하는 파일
